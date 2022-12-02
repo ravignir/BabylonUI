@@ -187,7 +187,7 @@
         }, // notification screen notifications button bacgrounds
 		"OverviewScreen/ReligionOverviewTab/BeliefDescription": {
 		"tint": {"r":1,"g":1,"b":1,"a":1},
-		"image": "checkbox",
+		"image": "notification",
         }, // belief description background
 		"OverviewScreen/TradesOverviewTab/OffersTable": {
 		"tint": {"r":1,"g":1,"b":1,"a":1},

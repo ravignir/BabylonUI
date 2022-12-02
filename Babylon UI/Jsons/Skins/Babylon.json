@@ -1,0 +1,273 @@
+{
+    "baseColor": {"r":0.12,"g":0.25,"b":0.40,"a":1},
+    "skinVariants": {
+        "CityScreen/CityInfoTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "cityInfotable",
+        }, // background of show stats drilldown in city screen
+		"CityScreen/CityPickerTable": {
+        }, // controls background of city name in city screen on bottom of the screen
+		"CityScreen/CitizenManagementTable/AvoidCell": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Avoid growth background
+		"CityScreen/CitizenManagementTable/FocusCell": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Focus on X button
+		"CityScreen/CitizenManagementTable/ResetCell": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Reset Citizens button
+		"CityScreen/CityConstructionTable/AvailableConstructionsTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Construction list headers blend
+		"CityScreen/CityConstructionTable/ConstructionsQueueTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Current construction header blend
+		"CityScreen/CityConstructionTable/Header": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Current Construction header main color
+		"CityScreen/CityConstructionTable/PickConstructionButton": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Construction list backgrounds
+		"CityScreen/CityConstructionTable/PickConstructionButtonSelected": {
+		"tint": {"r": 0.7, "g": 0.7, "b": 0.7, "a": 1},
+            "image": "checkbox",
+        }, // Construction list clicked
+		"CityScreen/CityConstructionTable/QueueEntry": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Construction queue background
+		"CityScreen/CityConstructionTable/QueueEntrySelected": {
+		"tint": {"r": 0.7, "g": 0.7, "b": 0.7, "a": 1},
+            "image": "checkbox",
+        }, // Construction queue selected
+		"CityScreen/CityScreenTileTable/Background": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Border of selected tile details in the city screen right corner
+		"CityScreen/CityScreenTileTable/InnerTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Background of selected tile details in the city screen right corner
+		"CityScreen/CityStatsTable/Background": {
+        }, // Color tint of Population tab in city screen top right corner
+		"CityScreen/CityStatsTable/InnerTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // Color of population tab
+		"CityScreen/ConstructionInfoTable/Background": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // tint or border of selected construction item details
+		"CityScreen/ConstructionInfoTable/SelectedConstructionTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // color of backgound of selected construction item details
+		"CivilopediaScreen/EntryButton": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // color of backgrounds of civilopedia items names
+		"General/Border": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // tech progress bar
+		"General/ExpanderTab": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "rectangleWithOutline",
+        }, // Color of most expander tabs excluding main menu
+		"General/HealthBar": {
+		"tint": {"r":0.12,"g":0.25,"b":0.40,"a":1}
+        }, // color of health bars borders
+		"General/TabbedPager": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // background of overview screens, options menu, map editor
+		"General/Tooltip": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "notification",
+        }, // color of shortcut tooltips 
+		"General/Popup/Background": {
+		"tint": {"r":0.12,"g":0.25,"b":0.40,"a":0.5}
+        }, // color of general bacground like opening main menu during game
+		"General/Popup/InnerTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "bigcirclebutton",
+        }, // controls color of popup windows and main menu background 
+		"LanguagePickerScreen/LanguageTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // language text background
+		"LoadGameScreen/BottomTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxbottom",
+        }, // bottom of load game screen - not save game screen
+		"LoadGameScreen/TopTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxtop",
+        }, // top of load game screen 
+		"MainMenuScreen/Background": {
+        }, // this is not functional, bugged as random map covers it
+		"MainMenuScreen/MenuButton": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "bigcirclebutton",
+        }, // controls main menu buttons on title screen only
+		"MapEditor/MapEditorToolsDrawer/Handle": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "thinrectangle",
+        }, // self explanatory 
+		"ModManagementOptions/ExpanderTab": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "checkbox",
+        }, // background of mod sort and filter 
+		"ModManagementScreen/BottomTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxbottom",
+        }, // bottom of mod picker screen
+		"ModManagementScreen/TopTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxtop",
+        }, // top of mod picker screen
+		"MultiplayerScreen/BottomTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxbottom",
+        }, // bottom of multiplayer screen
+		"MultiplayerScreen/TopTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxtop",
+        }, // top of multiplayer screen
+		"NewGameScreen/BottomTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // whole bottom of new game screen
+		"NewGameScreen/GameOptionsTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // left part of new game screen
+		"NewGameScreen/MapOptionsTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // middle part of new game screen
+		"NewGameScreen/PlayerPickerTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // right part of new game screen
+		"NewGameScreen/TopTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // top part of new game screen
+		"NewGameScreen/NationTable/Background": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // outer border of picked nation screen
+		"NewGameScreen/NationTable/BorderTable": {
+        }, // inner border of picked nation screen
+		"NewGameScreen/NationTable/RightInnerTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // inside of picked nation screen
+		"NewGameScreen/NationTable/Title": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // picked nation screen name background 
+		"NewGameScreen/PlayerPickerTable/PlayerTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // picked nations bacground in new game screen
+		"OverviewScreen/DiplomacyOverviewTab/CivTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // diplomacy overview diagram table background
+		"OverviewScreen/NotificationOverviewTable/Notification": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "notification",
+        }, // notification screen notifications button bacgrounds
+		"OverviewScreen/ReligionOverviewTab/BeliefDescription": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // belief description background
+		"OverviewScreen/TradesOverviewTab/OffersTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // active trades background
+		"OverviewScreen/UnitOverviewTab/UnitSupplyTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkbox",
+        }, // unit supply table 
+		"PlayerReadyScreen/Background": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "boxempty",
+        }, // as above
+		"TechPickerScreen/Background": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxtop",
+        }, // tech picker top
+		"TechPickerScreen/BottomTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "checkboxbottom",
+        }, // tech picker bottom
+		"TechPickerScreen/TechButton": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "bigcirclebutton",
+        }, // techs button 
+		"VictoryScreen/CivGroup": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "bigcirclebutton",
+        }, // victory status nations bacgrounds
+		"WorldScreen/BattleTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "rectangleWithOutline",
+        }, // battle background
+		"WorldScreen/Notification": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "notification",
+        }, // notifications in world screen
+		"WorldScreen/PickTechButton": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "bigcirclebutton",
+        }, // pick tech button
+		"WorldScreen/TileInfoTable": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "rectangleWithOutline",
+        }, // tile info in main map
+		"WorldScreen/UnitTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "unitstat",
+        }, // unit box in the left corner
+		"WorldScreen/CityButton/AirUnitTable": {
+        }, // Aircraft icon
+		"WorldScreen/CityButton/IconTable": {
+            "image": "cityname",
+			"alpha": 0.9,
+        }, // Cities names
+		"WorldScreen/CityButton/InfluenceBar": {
+		"tint": {"r":1,"g":1,"b":1,"a":1},
+		"image": "thinrectangle",
+        }, // Inluence bar background
+		"WorldScreen/Minimap/Background": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "thinrectangle",
+        }, // minimap background
+		"WorldScreen/Minimap/Border": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "minimap_border",
+        }, // minimap border
+		"WorldScreen/TopBar/LeftAttachment": {
+        }, // ??
+		"WorldScreen/TopBar/ResourceTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "bottombarstats",
+        }, // Top bar bottom part
+		"WorldScreen/TopBar/RightAttachment": {
+        }, // ??
+		"WorldScreen/TopBar/StatsTable": {
+		"tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+            "image": "topbarstats",
+        }, // top bar top part
+    }
+}

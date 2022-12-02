@@ -1,0 +1,159 @@
+
+game.png
+size: 1024, 64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+Skins/Babylon/bottombarstats
+  rotate: false
+  xy: 77, 33
+  size: 61, 21
+  split: 15, 14, 4, 13
+  pad: 0, 0, 0, 0
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/boxempty
+  rotate: false
+  xy: 473, 33
+  size: 21, 21
+  split: 4, 4, 4, 4
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/checkbox
+  rotate: false
+  xy: 531, 33
+  size: 21, 21
+  split: 8, 8, 8, 8
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/checkbox-pressed
+  rotate: false
+  xy: 502, 33
+  size: 21, 21
+  split: 8, 8, 8, 8
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/checkboxbottom
+  rotate: false
+  xy: 376, 11
+  size: 21, 9
+  split: 7, 7, 0, 5
+  pad: 0, 0, 0, 0
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Skins/Babylon/checkboxtop
+  rotate: false
+  xy: 473, 16
+  size: 21, 9
+  split: 7, 7, 5, 0
+  pad: 0, 0, 0, 0
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Skins/Babylon/cityInfotable
+  rotate: false
+  xy: 442, 14
+  size: 23, 40
+  split: 8, 8, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Skins/Babylon/minimap_border
+  rotate: false
+  xy: 266, 7
+  size: 47, 47
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Skins/Babylon/minimap_inside
+  rotate: false
+  xy: 321, 7
+  size: 47, 47
+  split: 11, 11, 11, 11
+  pad: 0, 0, 0, 0
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Skins/Babylon/notification
+  rotate: false
+  xy: 146, 4
+  size: 52, 50
+  split: 19, 20, 19, 21
+  pad: 12, 13, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Babylon/rectangleWithOutline
+  rotate: false
+  xy: 376, 28
+  size: 26, 26
+  split: 8, 9, 8, 9
+  pad: 0, 0, 0, 0
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Skins/Babylon/roundedEdgeRectangle
+  rotate: false
+  xy: 206, 4
+  size: 52, 50
+  split: 19, 20, 19, 21
+  pad: 12, 13, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/Babylon/select-box
+  rotate: false
+  xy: 4, 4
+  size: 65, 21
+  split: 21, 21, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/select-box-pressed
+  rotate: false
+  xy: 4, 33
+  size: 65, 21
+  split: 21, 21, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/thinrectangle
+  rotate: false
+  xy: 560, 45
+  size: 9, 9
+  split: 3, 3, 3, 3
+  pad: 0, 0, 0, 0
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Skins/Babylon/topbarstats
+  rotate: false
+  xy: 77, 4
+  size: 61, 21
+  split: 14, 14, 12, 7
+  pad: 0, 0, 0, 0
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Skins/Babylon/unitstat
+  rotate: false
+  xy: 410, 30
+  size: 24, 24
+  split: 2, 14, 14, 2
+  pad: 0, 0, 0, 0
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
